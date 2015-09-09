@@ -1,25 +1,29 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About
+tags: [about, perso]
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header/nature/night-stars.jpg
 ---
+### NOT just another random web developer!
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hi! My name is Fayçal and I have an engineer’s degree in computer science. I’m also a PHP5 Zend Certified Engineer and a Java Certified programmer but I'm currently working as a Front Developer! No matter the language/framework to deal with, I really try to get things done, do it right and be proud of the final result... This what my manifesto is all about.
 
-## Minimal Mistakes is all about:
+### Facts about me:
+* I'm a proud dad of my little Lina
+* I'm (almost) a regular <a href="http://www.sports-tracker.com/view_profile/fayway" target="_blank">runner</a>
+* Nikola Tesla is my greatest scientist, ever!
+* Elon Musk is my perfect entrepreneur "human model"
+* Interstellar is the kind of movie I love to watch often
+* @TODO
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+### Techy Facts about me:
+* Before blogging here, I used to blog with my best friends [Fahdos.com](http://fahdos.com){:target="_blank"} & [Taoufix.com](http://taoufix.com){:target="_blank"} @ [Agafix.org](http://agafix.org){:target="_blank"}
+* I'm a Robert C. Martin nephew (programmatically speaking ;)
+* When I’m not developing software at work, I develop software at home
+* I used to write [free WordPress plugins](http://profiles.wordpress.org/fay-1){:target="_blank"}
+* I used to write Premium WordPress plugins @ [Codecanyon](http://codecanyon.net/user/fayway){:target="_blank"}
+* One on my plugins was actually elected as one of [Eleven Fantastic WordPress Plugins in 2011](http://wp.tutsplus.com/articles/codecanyon-yearly-roundup-eleven-fantastic-wordpress-plugins-from-2011/){:target="_blank"}
+* I published in Google Play a POC about [Hybrid Mobile Apps](https://play.google.com/store/apps/developer?id=Fayway+Labs){:target="_blank"} using Sencha Touch & Ionic
+* @TODO

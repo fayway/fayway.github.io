@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            .Fay Labs
 locale:           en_US
 url:
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Fayçal Tirich
+  avatar: bio-avatar-ft.png
+  bio: "Constantly learning how to `dexterously` craft clean code"
   email:
-  disqus-shortname:
-  twitter: #username
+  disqus-shortname: fayway
+  twitter: fayway2
   facebook: #username
   google:
-    plus: #username
-    analytics:
+    plus: FayçalTirich
+    analytics: UA-66584307-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: fayway
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: faycaltirich
   xing: #username
   instagram: #username
   lastfm: #username
