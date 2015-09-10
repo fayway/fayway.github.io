@@ -13,14 +13,14 @@ Pour ma mission actuelle, on m’a demandé de présenter à un auditoire consti
 J’ai trouvé malheureux qu’en 2015, il existe encore des hésitants auprès desquels, les tests automatisés ne jouissent toujours pas d’une bonne réputation… J'ai cru comprendre que les raisons avancées sont souvent :
 
 - Pour les décideurs : "ça fait flamber le chiffrage et le budget"
-- Pour les développeurs : "ça fait du code de plus à écrire et à maintenir( parfois plus compliqué que la implémentation d'origine)"
+- Pour les développeurs : "ça fait du code de plus à écrire et à maintenir( parfois plus compliqué que la vraie implémentation)"
 
 Dans mon projet actuel, on est conscient de ses points « négatifs » mais on est convaincu que les avantage et les solutions que le TDD/BDD peuvent nous apporter, dépassent et éclipsent les autres "soi-disant" inconvénients.
 
 Au passage un petit rappel sur les avantages ne fera de mal à personne :
 
 - Contrôler la régression :
-  - => Pas peur du changement/évolution
+  - => Ne pas avoir peur du changement/évolution
 - Faciliter la maintenance
   - => Plus de maitrise, confidence...
 - Détecter et corriger rapidement
@@ -46,7 +46,7 @@ On essaye alors que les tests soient un moyen de :
   - On parle alors de **Tests as Examples**, en plus chaque anomalie remontée donne lieu à un nouveau test pour "immortaliser" le jeux de données du cas "tordu"
 - Mieux concevoir et structurer le code de l'implémentation
   - Résultat immédiat : Respect naturel des bons pratiques SOLID & Co
-  - On parle alors de **Design for Testability**, généralement les développeurs ont souvent le choix et respecter ou non les bonnes pratiques de développement,  mais tout code n’est pas testable, et pour faire un code testable, ils se trouvent obligés d’adopter des principes comme le **Single Responsability Principle, Dependency Inversion Principle, Open Closed Principle**…
+  - On parle alors de **Design for Testability**, généralement les développeurs ont souvent le choix de respecter ou non les bonnes pratiques de développement,  mais tout code n’est pas testable, et pour faire un code testable, ces développeurs se trouvent **obligés** d’adopter des principes comme le **Single Responsability Principle, Dependency Inversion Principle, Open Closed Principle**…
 
 Et finalement:
 
