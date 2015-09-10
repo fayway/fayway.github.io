@@ -9,7 +9,7 @@ image:
 ---
 For a more extensive presentation of my work experience, please visit my <a href="https://www.linkedin.com/in/faycaltirich" class="btn btn-info" target="_blank">LinkedIn profile</a>
 
-Here is a brief snapshot just in case you were lazy enough to click the button above ;) 
+Here is a brief snapshot just in case you were too lazy to click the button above ;) 
 
 <div class="skills">
 	<div class="section-title"><h3>My tools Cloud</h3></div>
