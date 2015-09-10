@@ -10,7 +10,7 @@ image:
 
 ## Introduction
 
-In this POC, I used [Silex](http://silex.sensiolabs.org/){:target="_blank"} as a micro-framework for developing a WordPress plugin to validate if Silex is small but efficient enough to wrap informal and not object oriented code into more clean and service oriented code.
+In this POC, I used [Silex](http://silex.sensiolabs.org/){:target="_blank"} as a micro-framework for developing a WordPress plugin to validate if Silex is small but efficient enough to wrap informal and not object oriented code into more clean and service oriented one.
 
 The main "benefits" can be:
 
