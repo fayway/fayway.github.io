@@ -18,12 +18,13 @@ Démocratisé plus que jamais, JavaScript était encore à l'honneur au Devoxx F
 JavaScript provoque une telle excitation qu'il ne passe pas un seul jour sans qu'une nouvelle librairie/framework voit justement le jour, et ce n'est pas sa premiere place au podium des langages les plus actifs de GitHub qui le démentira.
 </p>
 <p>
-Lors des nombreuses conférences dédiées aux frameworks JS lors de cette édition, des speakers respectés nous ont fait part de leurs retours d’expériences en en essayant de faire sortir du lot les valeurs sûres qui marqueront considérablement l'année 2015.
+Lors des nombreuses conférences dédiées aux frameworks JS lors de cette édition, des speakers respectés nous ont fait part de leurs retours d’expériences en essayant de faire sortir du lot les valeurs sûres qui marqueront considérablement l'année 2015.
 </p>
 
 # ECMAScript 6: La confirmation avant l'heure au Devoxx
 
 Un peu d'histoire : Netscape crée LiveScript, le renomme à JavaScript pour la version client, il connait un tel succès qu'il est et finalement soumis à ECMA en 1996 qui va publier la 1ér version en 1997.
+
 <p class="image-pull-right">
 <img src="/images/2015/es6-logo.png" />
 </p>
