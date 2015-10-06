@@ -34,21 +34,28 @@ Docker automatically shares the user home folder between the host (your laptop) 
 #Recommended talks
 
 Docker for developers by Jérôme Petazzoni
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FdkNAjjO5yQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FdkNAjjO5yQ" frameborder="0"> </iframe>
+
 <br />
 
 
 Workshop : 45 minutes pour comprendre Docker avec Jérôme Petazzoni
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXSC3-mrgWA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXSC3-mrgWA" frameborder="0"> </iframe>
 
 ##Specific to PHP/Symfony
 
 Docker pour le Dev & CI @ Symfony Live 2015: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G_msP7OqTLU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_msP7OqTLU" frameborder="0"> </iframe>
+
 <br />
 
 Slides
-<iframe src="//slides.com/jeremyderusse/docker-dev/embed" width="616" height="450" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="//slides.com/jeremyderusse/docker-dev/embed" width="616" height="450" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+
 <br />
 
 #Top Commands
