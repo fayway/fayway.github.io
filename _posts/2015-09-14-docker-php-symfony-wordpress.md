@@ -10,7 +10,7 @@ image:
 
 #Introduction
 
-A friend of mine asked me a little help on a WordPress plugin, and since Linux/Apache/MySQL/PHP is no more my full time work environment, while helping him, I wanted however to keep my laptop light and avoid install this whole stack for such very punctual need. One of the solutions is to use a temporary VM, with tools like Vagrant, Ansible and Puppet, automating transient VM has become easy like never before. But this approach have disadvantages too, and the main one is the resources consuming side effect. And this is where Docker shines, with Docker, we are not virtualing operating systems but rather virtualizing processes.
+A friend of mine asked me a little help on a WordPress plugin, and since Linux/Apache/MySQL/PHP is no more my full time work environment, I wanted to help him but in the same time try to keep my laptop light by avoiding installing this whole stack for a such very punctual need. One of the solutions is to use a temporary VM, with tools like Vagrant, Ansible and Puppet, automating transient VM has become easy like never before. But this approach have disadvantages too, and the main one is the resources consuming side effect. And this is where Docker shines, with Docker, we are not virtualing operating systems but rather virtualizing processes.
 
 Here is a an quick comparison form Jérémy DERUSSÉ <a href="#specific-to-phpsymfony">talk</a>
 
@@ -19,7 +19,7 @@ Here is a an quick comparison form Jérémy DERUSSÉ <a href="#specific-to-phpsy
 <img src="/images/2015/docker/vm-vs-docker-perfs.png" />
 
 
-If you're using Docker in linux, then Docker containers have direct access to the host hardware, since it's not possible in Mac/Windoz, Docker containers are ran in a single lightweight and optimized VM used like a mediator. The gain is significant if you need to run linked multiple containers at the same time (Imagine a container for Apache, the second for MySQL, the third for an external service like MongoDB, RabbitMQ...)
+If you're using Docker in linux, then Docker containers have direct access to the host hardware, since it's not possible in Mac/Windoz, Docker containers are ran in a single lightweight and optimized VM used like a mediator. The gain is significant if you need to run multiple linked containers at the same time (Imagine a container for Apache, the second for MySQL, the third for an external service like MongoDB, RabbitMQ...)
 
 <img src="/images/2015/docker/boot2docker.png" />
 
@@ -46,15 +46,19 @@ Workshop : 45 minutes pour comprendre Docker avec Jérôme Petazzoni
 
 ##Specific to PHP/Symfony
 
-Docker pour le Dev & CI @ Symfony Live 2015: 
+Docker pour le Dev & CI @ Symfony Live 2015
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G_msP7OqTLU" frameborder="0"> </iframe>
 
+
 <br />
 
-Slides
+<a href="http://slides.com/jeremyderusse/docker-dev" target="_blank">Slides</a>
 
-<iframe src="//slides.com/jeremyderusse/docker-dev/embed" width="616" height="450" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+
+<iframe width="614" height="450" src="//slides.com/jeremyderusse/docker-dev/embed"  scrolling="no" frameborder="0"> </iframe>
+
 
 <br />
 
