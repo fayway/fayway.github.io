@@ -98,7 +98,7 @@ docker run -d -P -v /Volumes/Data/Users/fayway/site:/usr/share/nginx/html  --nam
 
 ```
 docker stop $(docker ps -a -q)
-docker rm $(docker ps -a -q)
+docker rm $(docker ps -a-q)
 ```
 
 #My docker-compose.yml using WordPress and MySQL official containers
@@ -144,6 +144,19 @@ docker-compose up
 - 3 - http://www.sitepoint.com/how-to-use-the-official-docker-wordpress-image
 - 4 - http://www.sitepoint.com/deploying-wordpress-with-docker
 - 5 - http://www.sitepoint.com/wocker-easy-dockerized-wordpress
+
+### Workaround to use ngrok for a Docker container
+
+If `local.dev` is the address of the Apache/nginx container server, so the workaround consists of creating a first tunnel via browser-sync and make ngrok using it since the new proxy will have a `localhost` address
+
+```
+browser-sync start --proxy "local.dev"
+
+ngrok http localhost:3000
+```
+
+
+
 
 
 
