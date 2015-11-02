@@ -66,28 +66,28 @@ Docker pour le Dev & CI @ Symfony Live 2015
 
 ##Playing with Docker Machine
 
-List, start & et the docker-machine VM IP:
+List, start & get the docker-machine VM IP:
 
 
-```
+{% highlight bash %}
 docker-machine ls
 docker-machine start default
 docker-machine ip default
-```
+{% endhighlight %}
 
 Connect (ssh) to default machine
 
-```
+{% highlight bash %}
 eval "$(docker-machine env default)"
-```
+{% endhighlight %}
 
 ##Playing with containers
 
 Launch a Docker container:
 
-```
+{% highlight bash %}
 docker run -d -P -v /Volumes/Data/Users/fayway/site:/usr/share/nginx/html  --name web nginx
-```
+{% endhighlight %}
 
 * -d flag keeps the container running in the background 
 * -P flag publishes exposed ports from the container to your local ost
@@ -96,10 +96,10 @@ docker run -d -P -v /Volumes/Data/Users/fayway/site:/usr/share/nginx/html  --nam
 
 ##One liner to stop / remove all of Docker containers:
 
-```
+{% highlight bash %}
 docker stop $(docker ps -a -q)
 docker rm $(docker ps -a-q)
-```
+{% endhighlight %}
 
 #My docker-compose.yml using WordPress and MySQL official containers
 
@@ -124,9 +124,9 @@ mysql:
 
 And execute
 
-```
+{% highlight bash %}
 docker-compose up
-```
+{% endhighlight %}
 
 
 #Extra Resources
@@ -149,11 +149,10 @@ docker-compose up
 
 If `local.dev` is the address of the Apache/nginx container server, so the workaround consists of creating a first tunnel via browser-sync and make ngrok using it since the new proxy will have a `localhost` address
 
-```
+{% highlight bash %}
 browser-sync start --proxy "local.dev"
-
 ngrok http localhost:3000
-```
+{% endhighlight %}
 
 
 
