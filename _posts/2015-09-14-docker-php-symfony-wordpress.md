@@ -10,7 +10,7 @@ image:
 
 #Introduction
 
-A friend of mine asked me a little help on a WordPress plugin, and since Linux/Apache/MySQL/PHP is no more my full time work environment, I wanted to help him but in the same time try to keep my laptop light by avoiding installing this whole stack for a such very punctual need. One of the solutions is to use a temporary VM, with tools like Vagrant, Ansible and Puppet, automating transient VM has become easy like never before. But this approach have disadvantages too, and the main one is the resources consuming side effect. And this is where Docker shines, with Docker, we are not virtualing operating systems but rather virtualizing processes.
+A friend of mine asked me a little help on a WordPress plugin, and since Linux/Apache/MySQL/PHP is no more my full time work environment, I wanted to help him but in the same time try to keep my laptop light by avoiding installing this whole stack for a such very punctual need. One of the solutions is to use a temporary VM, with tools like Vagrant, Ansible and Puppet, automating transient VM has become easy like never before. But this approach have disadvantages too, and the main one is the resources consuming side effect. And this is where Docker shines, with Docker, we are not virtualizing operating systems but rather virtualizing processes.
 
 Here is a an quick comparison form Jérémy DERUSSÉ <a href="#specific-to-phpsymfony">talk</a>
 
