@@ -15,25 +15,21 @@ Here is a brief snapshot just in case you were too lazy to click the button abov
 	<div class="section-title"><h3>My tools Cloud</h3></div>
 	<div class="skill-tags">
 		<ul>
-			<li>XP</li>
 			<li>Scrum</li>
 			<li>Kanban</li>
 			<li>UML</li>
 			<li>API Design</li>
 			<li>JavaScript</li>
-			<li>jQuery</li>
-			<li>AngularJS</li>
+			<li>Angular</li>
 			<li>Ionic</li>
 			<li>Ractive.js</li>
 			<li>Sencha ExtJS</li>
 			<li>Sencha Touch</li>
 			<li>Java</li>
-			<li>J2EE</li>
 			<li>Spring</li>
-			<li>Struts</li>
 			<li>Hibernate</li>
 			<li>PHP</li>
-			<li>Symfony2</li>
+			<li>Symfony</li>
 			<li>Silex</li>
 			<li>WordPress</li>
 			<li>Shell</li>
@@ -63,7 +59,7 @@ Here is a brief snapshot just in case you were too lazy to click the button abov
 				<div class="role">Front End Developer</div>
 				<p>April 2015 to present</p>
 				<div class="experience-details">
-					<div><strong>Tools</strong>: Gulp, RequireJS, Ractive.js, Signal.js, Async.js, jQuery, Crossroads.js, Hasher, i18next, lodash, Moment.js, Numeral.js, Mocha, Chai, Expect, Sinon.JS, Bootstrap, Less...</div>
+					<div><strong>Tools</strong>: Angular, Ractive.js, RxJS, Redux, PHP, Symfony, JAVA, MongoDB, REST API, Unit & E2E Tests</div>
 					<div><strong>Domain</strong>: Asset Management</div>
 				</div>
 			</div>
