@@ -12,7 +12,7 @@ image:
 <p>Donc à Retenir pour moi&nbsp;:</p>
 <p><a href="https://antoniogoncalves.org/about/" target="_blank">Antonio Goncalves</a>, un expert Java EE (Elu Java Champion, auteur de plusieurs livres Java, co-fondateur de JUG Paris et, serial speaker …) qui continue à apprécier <strong>TypeScript</strong> mais qui n'adhère pas à la philosophie de <strong>React</strong>. Avec son gros passif MVC, il s’étonne que React mélange JS et HTML (et même CSS) et ça lui rappelle les cauchemars de ses premières servlets qui mélangeaient Java et HTML&nbsp;:)</p>
 <p>Comme alternatif, Guillaume lui recommande <strong>Vue.js</strong>&nbsp;plus facile à digérer et qui permet de bien séparer ces différentes technologies de composants web, et donc faire les choses plus "proprement" (jugement relatif selon Audrey, pour qui c’est au feeling de chaque développeur)</p>
-<p>Pour le reste de l’actualité, c’est surtout la sorties de nouvelles versions&nbsp;:</p>
+<p>Pour le reste de l’actualité, c’est surtout des sorties de nouvelles versions&nbsp;:</p>
 <ul style="list-style-type:disc">
 	<li>
 		Sortie de <a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4" target="_blank">Webpack&nbsp;4</a> encore plus rapide (jusqu’à 98% plus rapide pour certains projets), plus performant (consommation CPU, mémoire...), la possibilité de commencer à l’utiliser sans aucun fichier de config...</li>
