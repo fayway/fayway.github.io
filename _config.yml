@@ -2,7 +2,7 @@
 
 title:            .Fay Labs
 locale:           en_US
-url:
+url:              https://fayway.github.io
 
 
 # Jekyll configuration
@@ -31,7 +31,7 @@ owner:
   bio: "Constantly learning how to `dexterously` craft clean code"
   email:
   disqus-shortname: fayway
-  twitter: fayway2
+  twitter: AbouLinoch
   facebook: #username
   google:
     plus: FayçalTirich
