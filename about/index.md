@@ -16,14 +16,13 @@ Hi! My name is Fayçal and I have an engineer’s degree in computer science. I�
 * Nikola Tesla is my greatest scientist, ever!
 * Elon Musk is my perfect entrepreneur "human model"
 * Interstellar is the kind of movie I love to watch often
-* @TODO
+* ...
 
 ### Techy Facts about me:
 * Before blogging here, I used to blog with my best friends [Fahdos.com](http://fahdos.com){:target="_blank"} & [Taoufix.com](http://taoufix.com){:target="_blank"} @ [Agafix.org](http://agafix.org){:target="_blank"}
-* I'm a Robert C. Martin nephew (programmatically speaking ;)
 * When I’m not developing software at work, I develop software at home
 * I used to write [free WordPress plugins](http://profiles.wordpress.org/fay-1){:target="_blank"}
 * I used to write Premium WordPress plugins @ [Codecanyon](http://codecanyon.net/user/fayway){:target="_blank"}
 * One on my plugins was actually elected as one of [Eleven Fantastic WordPress Plugins in 2011](http://wp.tutsplus.com/articles/codecanyon-yearly-roundup-eleven-fantastic-wordpress-plugins-from-2011/){:target="_blank"}
 * I published in Google Play a POC about [Hybrid Mobile Apps](https://play.google.com/store/apps/developer?id=Fayway+Labs){:target="_blank"} using Sencha Touch & Ionic
-* @TODO
+* ...
