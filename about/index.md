@@ -8,11 +8,11 @@ image:
 ---
 ### NOT just another random web developer!
 
-Hi! My name is Fayçal and I have an engineer’s degree in computer science. I’m also a PHP5 Zend Certified Engineer and a Java Certified programmer and I'm currently working as a Front Developer! No matter the language/framework I deal with, I really try to get things done, do it right and be proud of the final result... This what my manifesto is all about.
+Hi! My name is Fayçal and I have an engineer’s degree in computer science. I’m also a PHP5 Zend Certified Engineer and a Java Certified programmer and I'm currently working as a Full Stack Developer! No matter the language/framework I deal with, I really try to get things done, do it right and be proud of the final result... This what my manifesto is all about.
 
 ### Facts about me:
 * I'm a proud dad of my little Lina
-* I'm (almost) a regular <a href="http://www.sports-tracker.com/view_profile/fayway" target="_blank">runner</a>
+* I'm a regular <a href="http://www.sports-tracker.com/view_profile/fayway" target="_blank">runner</a>
 * Nikola Tesla is my greatest scientist, ever!
 * Interstellar is the kind of movie I love to watch often
 * ...
