@@ -12,7 +12,7 @@ Hi! My name is Fayçal and I have an engineer’s degree in computer science. I�
 
 ### Facts about me:
 * I'm a proud dad of my little Lina
-* I'm a regular <a href="http://www.sports-tracker.com/view_profile/fayway" target="_blank">runner</a>
+* I'm a regular <a href="https://www.strava.com/athletes/49053018" target="_blank">runner</a>
 * Nikola Tesla is my greatest scientist, ever!
 * Interstellar is the kind of movie I love to watch often
 * ...
